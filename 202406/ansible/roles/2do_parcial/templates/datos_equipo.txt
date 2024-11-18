@@ -1,0 +1,3 @@
+IP: 193.233.134.32
+Distribucion: ubuntu-jammy
+cantidad de Cores: 2
